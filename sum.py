@@ -1,5 +1,5 @@
-a = 5
-b = 3
+a = 9
+b = 2
 c = a + b
 print(c)
 
